@@ -1,3 +1,3 @@
-# my-coding-temple-shi-log
+# my-coding-temple-ship-log
 
 Author: Coding Temple
